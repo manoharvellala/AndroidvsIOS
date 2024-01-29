@@ -121,7 +121,8 @@ will familiarize with the Variables.
 2.  Count - Quantative - Vertical Position (Y-axis)
 3.  Count - Quantative - Color
 
-![](./Img1.png)
+![image](https://github.com/manoharvellala/AndroidvsIOS/assets/63775425/217e1b4c-9351-4821-88c3-4ed6fb4447f0)
+
 
 - A bar chart is a type of chart that represents data with rectangular bars of lengths proportional to the values they represent.
 
